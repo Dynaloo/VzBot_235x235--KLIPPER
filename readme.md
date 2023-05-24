@@ -10,5 +10,5 @@
 
 - Rock PI4 (substitute the Rasberry PI4 which is currently not found)
 
-- **KLIPPER (https://www.klipper3d.org/)
-- **Fluiddpi (https://docs.fluidd.xyz/)
+- **KLIPPER** (https://www.klipper3d.org/)
+- **Fluiddpi** (https://docs.fluidd.xyz/)
