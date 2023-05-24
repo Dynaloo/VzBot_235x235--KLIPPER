@@ -1,6 +1,6 @@
-# Configuring Printer - Sapphire-Pro 235x235 (core XY)
+# Configuring Printer - VzBot 235x235 (core XY)
 
-- SKR 1.4 turbo with
+- MELLOW Fly Super 8 Pro "H423" with
 - 4x TMC2209 UART
 - 24v power MEAN WELL — LRS-350
 - BLtouch V3.1 ANTCLABS
