@@ -2,10 +2,8 @@
 
 Instructions:
 
-1. Check your board to make sure you are flashing the right versions.
-    - Super8 standard v1.x (STM32F407 @ 168mhz)
-    - Super8 Pro (first edition with STM32H743 chip @ 480mhz)
-#  - Super8 Pro (latest edition with STM32H723 chip @ 525mhz)
+1. Check your board to make sure you are flashing the right versions
+    - Super8 Pro (latest edition with STM32H723 chip @ 525mhz)
 
 2. Download the according firmware file and rename it to firmware.bin
 3. Plate the firmware.bin file on the Super8 Pro SDCARD
