@@ -1,6 +1,6 @@
 # Configuring Printer - VzBot 235x235 (core XY)
 
-- MELLOW Fly Super 8 Pro "STM32H**423**"
+- MELLOW Fly Super 8 Pro "STM32H**723**"
 - 4x TMC2209 UART
 - 24v power MEAN WELL — LRS-350
 - BLtouch V3.1 ANTCLABS
