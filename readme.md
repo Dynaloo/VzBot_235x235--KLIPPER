@@ -8,7 +8,7 @@
 - V6 Hotend - plated copper heat block & nozzel - titanium alloy heat break 
 - 2x T8 screew - Pitch 2mm Lead 2mm
 
-- Rock PI4 (substitute the Rasberry PI4 which is currently not found)
+- Rock PI4 (substitute the Rasberry PI4 which is currently not found in 2022)
 
 - **KLIPPER** (https://www.klipper3d.org/)
 - **Fluiddpi** (https://docs.fluidd.xyz/)
